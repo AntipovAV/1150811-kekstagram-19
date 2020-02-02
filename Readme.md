@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Антипов](https://up.htmlacademy.ru/javascript/19/user/1150811).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Столпнер] https://htmlacademy.ru/profile/stolpnera.
 
 ---
 
